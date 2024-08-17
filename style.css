@@ -234,3 +234,13 @@ margin-bottom: 50px;
 font-size: 50px;
 
 }
+
+.busca {
+    text-align: center;
+    padding: 20px;
+    font-size: 70px;
+}
+
+.busca input {
+    font-size: 100px;
+}
